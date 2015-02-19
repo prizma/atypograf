@@ -1,0 +1,14 @@
+{
+	"name": "atypograf-js",
+	"description": "JavaScript port for ArtLebedev Typograf",
+ 	"version": "0.0.1",
+	"dependencies": 
+	{
+		"request": "2.53.0",
+		"xml2js": "0.4.5"
+	},
+	"scripts": 
+	{
+		"test": "make test"
+	}
+}
