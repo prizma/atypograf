@@ -1,14 +1,21 @@
 {
-	"name": "atypograf-js",
+	"name": "atypograf",
 	"description": "JavaScript port for ArtLebedev Typograf",
- 	"version": "0.0.1",
+ 	"version": "1.0.0",
+ 	"main": "index.js",
 	"dependencies": 
 	{
 		"request": "2.53.0",
 		"xml2js": "0.4.5"
 	},
-	"scripts": 
-	{
-		"test": "make test"
-	}
+	"keywords": [
+		"artlebedev",
+		"nodejs",
+		"node.js",
+		"typograf",
+		"atypograf",
+		"prizma"
+	],
+	"author": "maxxie <mast@imast.ru> (https://prizma.mobi)",
+	"license": "MIT"
 }
