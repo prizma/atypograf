@@ -1,4 +1,8 @@
 ## atypograf
+
+![NPM version](https://img.shields.io/badge/Version-1.0.0-green.svg)
+![License](https://img.shields.io/badge/License-MIT-000000.svg)
+
 This is Node.js library for ArtLebedev's typograf http://www.artlebedev.ru/tools/typograf/
 
 ## Usage
